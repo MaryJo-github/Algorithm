@@ -8,3 +8,4 @@
 | date       | problem set          | pass or fail |
 | :----------: | :--------------------: | :----: |
 |6월 12일| [숫자의합](https://www.acmicpc.net/problem/11720) | ✅ |
+|6월 12일| [평균구하기](https://www.acmicpc.net/problem/11720) | ✅ |
