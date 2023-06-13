@@ -7,5 +7,7 @@
 ### 6월
 | date       | problem set          | pass or fail |
 | :----------: | :--------------------: | :----: |
-|6월 12일| [숫자의합](https://www.acmicpc.net/problem/11720) | ✅ |
-|6월 12일| [평균구하기](https://www.acmicpc.net/problem/11720) | ✅ |
+|6월 12일| [배열과리스트-숫자의합](https://www.acmicpc.net/problem/11720) | ✅ |
+|6월 12일| [배열과리스트-평균구하기](https://www.acmicpc.net/problem/11720) | ✅ |
+|6월 13일| [배열과리스트-구간합구하기4](https://www.acmicpc.net/problem/11659) | ✅ |
+|6월 13일| [배열과리스트-구간합구하기5](https://www.acmicpc.net/problem/1546) | ✅ |
