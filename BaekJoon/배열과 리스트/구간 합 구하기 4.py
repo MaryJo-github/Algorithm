@@ -2,7 +2,6 @@
 author: mary
 date: 23.06.13
 title: 구간 합 구하기 4
-time: 15분
 """
 
 N, M = map(int, input().split())
