@@ -9,15 +9,30 @@ array = []
 for i in range(N):
     array.append(list(map(int, input().split())))
 
-resultList = [0] * M
-for i in range(M):
-    x1, y1, x2, y2 = map(int, input().split())
-    for j in range(x1, x2+1):
-        for k in range(y1, y2+1):
-            resultList[i] += array[j-1][k-1]
+# 구간합
+subSumRow = [[0] * N for _ in range(N)]
+for n in range(N):
+    sum = 0
+    for n2 in range(N):
+        sum += array[n][n2]
+        subSumRow[n][n2] = sum
 
-for i in range(M):
-    print(resultList[i])
+subSumColumn = [[0] * (N+1) for _ in range(N+1)]
+for n2 in range(N):
+    sum = 0
+    for n in range(N):
+        sum += subSumRow[n][n2]
+        subSumColumn[n+1][n2+1] = sum
+
+# result
+resultList = [0] * M
+for m in range(M):
+    x1, y1, x2, y2 = map(int, input().split())
+    result = subSumColumn[x2][y2] - subSumColumn[x1-1][y2] - subSumColumn[x2][y1-1] + subSumColumn[x1-1][y1-1]
+    resultList[m] = result
+
+for m in range(M):
+    print(resultList[m])
 
 
 # 1234
