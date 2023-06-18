@@ -14,4 +14,5 @@
 |6월 14일| [배열과리스트-2차원배열의합](https://www.acmicpc.net/problem/2167) | ❌✅ | ✅ |
 |6월 15일| [배열과리스트-나머지합](https://www.acmicpc.net/problem/2167) | ❌✅ | ✅ |
 |6월 16일| [투포인터-수들의합5](https://www.acmicpc.net/problem/2018) | ✅ |  |
-|6월 16일| [투포인터-주몽](https://www.acmicpc.net/problem/1940) | ✅ | ✅ |
+|6월 16일| [투포인터-주몽](https://www.acmicpc.net/problem/1940) | ❌ |  |
+|6월 18일| [투포인터-좋다](https://www.acmicpc.net/problem/1253) | ❌ |  |

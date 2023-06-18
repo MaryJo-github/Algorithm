@@ -24,7 +24,6 @@ while len(array) > 2:
     choosen_idx = 0
     while choosen_idx < len(array):
         choosen_idx += 1
-        print(array)
         if array[0] + array[choosen_idx] == M:
             cnt += 1
             array.pop(0)
