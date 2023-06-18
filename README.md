@@ -16,4 +16,4 @@
 |6월 16일| [투포인터-수들의합5](https://www.acmicpc.net/problem/2018) | ✅ |  |
 |6월 16일| [투포인터-주몽](https://www.acmicpc.net/problem/1940) | ❌ |  |
 |6월 18일| [투포인터-좋다](https://www.acmicpc.net/problem/1253) | ❌ |  |
-|6월 18일| [슬라이딩윈도우-DNA비밀번호](https://www.acmicpc.net/problem/12891) |  |  |
+|6월 18일| [슬라이딩윈도우-DNA비밀번호](https://www.acmicpc.net/problem/12891) | ❌ |  |
