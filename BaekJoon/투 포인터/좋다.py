@@ -8,32 +8,33 @@ N = int(input())
 array = list(map(int, input().split()))
 array.sort()
 
-# 3 5 8 9 11 12 14
-print(list(range(2, 1)))
-
-first = 0
-second = 1
 cnt = 0
 for n in range(2, N): 
-    while second < N:
+    first = 0
+    second = n-1
+    while second > first:
         target = array[n]
         compare = array[first]+array[second]
         if target == compare:
             cnt += 1
-            if first+1 == second:
-                second += 1
-            else:
-                first += 1
             break
         elif target > compare:
-            if first+1 == second:
-                second += 1
-            else:
-                first += 1
+            first += 1
         elif target < compare:
-            # if first+1 == second:
-            #     break
-            # else:         
-            break
+            second -= 1
 
 print(cnt)
+
+# 문제: 3 5 8 9 11 12 14
+# 답: 4 (8, 11, 12, 14)
+
+# 문제: 3 3 6 8 8 9 11 12 14
+# 답: 5 (6, 9, 11, 12, 14)
+
+# 문제: 1 1 1 2 2 4 5 6 7 7
+# 답: 7 (2, 2, 4, 5, 6, 7, 7)
+
+# 문제: -5 -3 -1 1 3 4 6 7
+# 답: ? ()
+
+
