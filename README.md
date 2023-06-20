@@ -14,6 +14,7 @@
 |6월 14일| [배열과리스트-2차원배열의합](https://www.acmicpc.net/problem/2167) | ❌✅ | ✅ |
 |6월 15일| [배열과리스트-나머지합](https://www.acmicpc.net/problem/2167) | ❌✅ | ✅ |
 |6월 16일| [투포인터-수들의합5](https://www.acmicpc.net/problem/2018) | ✅ |  |
-|6월 16일| [투포인터-주몽](https://www.acmicpc.net/problem/1940) | ❌ |  |
+|6월 16일| [투포인터-주몽](https://www.acmicpc.net/problem/1940) | ❌✅ | ✅ |
 |6월 18일| [투포인터-좋다](https://www.acmicpc.net/problem/1253) | ❌ |  |
-|6월 18일| [슬라이딩윈도우-DNA비밀번호](https://www.acmicpc.net/problem/12891) | ❌ |  |
+|6월 18일| [슬라이딩윈도우-DNA비밀번호](https://www.acmicpc.net/problem/12891) | ❌✅ | ✅ |
+|6월 19일| [슬라이딩윈도우-최솟값찾기](https://www.acmicpc.net/problem/11003) | ❌ |  |
