@@ -22,4 +22,5 @@
 |6월 20일| [스택과큐-스택수열](https://www.acmicpc.net/problem/11003) | ❌ | ✅ |
 |6월 21일| [스택과큐-오큰수](https://www.acmicpc.net/problem/17298) | ❌ |  |
 |6월 21일| [스택과큐-카드2](https://www.acmicpc.net/problem/17298) | ✅ |  |
-|6월 22일| [스택과큐-절댓값힙](https://www.acmicpc.net/problem/11286) |  |  |
+|6월 22일| [스택과큐-절댓값힙](https://www.acmicpc.net/problem/11286) | ❌ |  |
+|6월 22일| [DFS-연결요소의개수](https://www.acmicpc.net/problem/11724) | ❌ |  |
