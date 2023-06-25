@@ -25,4 +25,4 @@
 |6월 22일| [스택과큐-절댓값힙](https://www.acmicpc.net/problem/11286) | ❌ | ✅ |
 |6월 22일| [DFS-연결요소의개수](https://www.acmicpc.net/problem/11724) | ❌ | ✅ |
 |6월 23일| [소수찾기-소수구하기](https://www.acmicpc.net/problem/1929) | ✅ |  |
-|6월 23일| [DFS-신기한소수](https://www.acmicpc.net/problem/2023) |  |  |
+|6월 25일| [DFS-신기한소수](https://www.acmicpc.net/problem/2023) | ✅ |  |
