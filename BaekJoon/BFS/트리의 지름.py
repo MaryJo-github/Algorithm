@@ -4,30 +4,40 @@ date: 23.06.29
 title: 트리의 지름
 """
 
-from collections import deque
 import sys
+from collections import deque
 input = sys.stdin.readline
 
 V = int(input())
 graph = {v+1:[] for v in range(V)}
 
-for v in range(V):
+for _ in range(V):
     input_list = list(map(int, input().split()))
     for i in range(int(len(input_list)/2)-1):
         graph[input_list[0]].append((input_list[2*i+1],input_list[2*(i+1)]))
     graph[input_list[0]].sort(key=lambda x:x[1])
 
-
 def bfs(start):
-    visited = [False] * V
-    queue = deque(graph[start][-1])
-    visited[start] = True
-    visited_dist = 
+    q = deque()
+    q.append((start, 0))
+    visited = [False] * (V+1)
+    visited[start] = 0
+    res = [0, 0] # start로부터 가장 먼 거리에 있는 노드와 거리 값
 
-    while queue:
-        (n, m) = queue.pop()
-        if not visited[n]:
-            queue.append(graph[n][-1])
-            visited[n] = True
-            visited_dist += m
+    while q:
+        cnt_node, cnt_dist = q.popleft()
+
+        for adj_node, adj_dist in graph[cnt_node]:
+            if not visited[adj_node]:
+                cal_dist = cnt_dist + adj_dist
+                q.append((adj_node, cal_dist))
+                visited[adj_node] = True
+                if res[1] < cal_dist:
+                    res[0] = adj_node
+                    res[1] = cal_dist
+    
+    return res
+
+point, _ = bfs(1)
+print(bfs(point)[1])
 
