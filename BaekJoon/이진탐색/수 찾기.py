@@ -13,18 +13,18 @@ M = int(input().rstrip())
 search_numbers = list(map(int, input().split()))
 
 numbers.sort()
-
-for i in range(M):
-    sn = search_numbers[i]
+for search_number in search_numbers:
     start = 0
-    end = len(numbers) -1
+    end = N-1
     flag = 0
+
     while start <= end:
-        midian = (start + end) // 2
-        if numbers[midian] > sn :
-            end = midian -1
-        elif numbers[midian] < sn :
-            start = midian + 1
+        median = (start+end)//2
+        median_value = numbers[median]
+        if search_number < median_value:
+            end = median-1
+        elif search_number > median_value:
+            start = median+1
         else:
             flag = 1
             break
