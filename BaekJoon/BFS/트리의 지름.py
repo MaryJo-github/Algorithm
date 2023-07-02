@@ -9,7 +9,7 @@ from collections import deque
 input = sys.stdin.readline
 
 V = int(input())
-graph = {v+1:[] for v in range(V)}
+graph = [[] for v in range(V+1)]
 
 for _ in range(V):
     input_list = list(map(int, input().split()))
@@ -21,7 +21,7 @@ def bfs(start):
     q = deque()
     q.append((start, 0))
     visited = [False] * (V+1)
-    visited[start] = 0
+    visited[start] = True
     res = [0, 0] # start로부터 가장 먼 거리에 있는 노드와 거리 값
 
     while q:
