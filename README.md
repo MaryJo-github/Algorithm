@@ -32,3 +32,4 @@
 |6월 29일| [BFS-트리의지름](https://www.acmicpc.net/problem/1167) | ❌ | ✅ |
 |6월 30일| [이진탐색-수찾기](https://www.acmicpc.net/problem/1920) | ❌ | ✅ |
 |7월 4일| [이진탐색-기타레슨](https://www.acmicpc.net/problem/2343) | ❌ |  |
+|7월 5일| [이진탐색-K번째수](https://www.acmicpc.net/problem/2343) |  |  |
