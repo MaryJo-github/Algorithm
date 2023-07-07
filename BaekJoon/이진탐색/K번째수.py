@@ -9,6 +9,43 @@ input = sys.stdin.readline
 N = int(input())
 k = int(input())
 
+def count_less(M):
+    cnt = 0
+    for n in range(N):
+        cnt += min((M-1)//(n+1), N)
+    return cnt
+
+start, end = 1, N*N
+result = 0
+while start <= end:
+    mid = (start+end)//2
+    cnt = count_less(mid)
+    if cnt > k:
+        end = mid-1
+    elif cnt < k:
+        result = max(result, mid)
+        start = mid+1
+
+print(result)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def count_less(num):
     cnt = 0
     for r in range(1, N+1):
