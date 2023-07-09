@@ -20,11 +20,11 @@ result = 0
 while start <= end:
     mid = (start+end)//2
     cnt = count_less(mid)
-    if cnt > k:
-        end = mid-1
-    elif cnt < k:
+    if cnt <= k-1:
         result = max(result, mid)
         start = mid+1
+    elif cnt > k-1:
+        end = mid-1
 
 print(result)
 
@@ -46,20 +46,20 @@ print(result)
 
 
 
-def count_less(num):
-    cnt = 0
-    for r in range(1, N+1):
-        cnt += min(N, (num-1)//r)
-    return cnt
+# def count_less(num):
+#     cnt = 0
+#     for r in range(1, N+1):
+#         cnt += min(N, (num-1)//r)
+#     return cnt
 
-answer = 0
-L, R = 1, N*N
-while L <= R:
-    mid = (L+R)//2
-    cnt = count_less(mid)
-    if cnt <= k-1:
-        answer = max(answer, mid)
-        L = mid+1
-    elif cnt > k-1:
-        R = mid-1
-print(answer)
+# answer = 0
+# L, R = 1, N*N
+# while L <= R:
+#     mid = (L+R)//2
+#     cnt = count_less(mid)
+#     if cnt <= k-1:
+#         answer = max(answer, mid)
+#         L = mid+1
+#     elif cnt > k-1:
+#         R = mid-1
+# print(answer)
