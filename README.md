@@ -34,4 +34,5 @@
 |7월 4일| [이진탐색-기타레슨](https://www.acmicpc.net/problem/2343) | ❌ |  |
 |7월 5일| [이진탐색-K번째수](https://www.acmicpc.net/problem/1300) | ❌ |  |
 |7월 9일| [그리디-동전0](https://www.acmicpc.net/problem/11047) | ✅ |  |
-|7월 10일| [그리디-카드정렬하기](https://www.acmicpc.net/problem/1715) |  |  |
+|7월 10일| [그리디-카드정렬하기](https://www.acmicpc.net/problem/1715) | ✅ |  |
+|7월 10일| [그리디-회의실배정](https://www.acmicpc.net/problem/1931) | ❌ |  |
