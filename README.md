@@ -36,3 +36,5 @@
 |7월 9일| [그리디-동전0](https://www.acmicpc.net/problem/11047) | ✅ |  |
 |7월 10일| [그리디-카드정렬하기](https://www.acmicpc.net/problem/1715) | ✅ |  |
 |7월 10일| [그리디-회의실배정](https://www.acmicpc.net/problem/1931) | ❌ |  |
+|7월 11일| [그리디-수묶기](https://www.acmicpc.net/problem/1931) | ✅ |  |
+|7월 11일| [그리디-잃어버린괄호](https://www.acmicpc.net/problem/1541) | ✅ |  |
