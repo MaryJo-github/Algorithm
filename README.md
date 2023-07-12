@@ -39,4 +39,4 @@
 |7월 11일| [그리디-수묶기](https://www.acmicpc.net/problem/1931) | ✅ |  |
 |7월 11일| [그리디-잃어버린괄호](https://www.acmicpc.net/problem/1541) | ✅ |  |
 |7월 12일| [정렬-수정렬하기](https://www.acmicpc.net/problem/2750) | ✅ |  |
-|7월 12일| [정렬-버블소트](https://www.acmicpc.net/problem/1377) |  |  |
+|7월 12일| [정렬-소트인사이드](https://www.acmicpc.net/problem/1427) | ✅ |  |
