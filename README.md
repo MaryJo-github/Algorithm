@@ -40,4 +40,5 @@
 |7월 11일| [그리디-잃어버린괄호](https://www.acmicpc.net/problem/1541) | ✅ |  |
 |7월 12일| [정렬-수정렬하기](https://www.acmicpc.net/problem/2750) | ✅ |  |
 |7월 12일| [정렬-소트인사이드](https://www.acmicpc.net/problem/1427) | ✅ |  |
-|7월 13일| [정렬-버블소트](https://www.acmicpc.net/problem/1377) |  |  |
+|7월 15일| [정렬-버블소트](https://www.acmicpc.net/problem/1377) | ❌ | ✅ |
+|7월 15일| [정렬-K번째 수](https://www.acmicpc.net/problem/11004) | ❌ |  |
