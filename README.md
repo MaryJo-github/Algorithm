@@ -44,3 +44,4 @@
 |7월 15일| [퀵 정렬-K번째 수](https://www.acmicpc.net/problem/11004) | ❌ |  |
 |7월 16일| [병합 정렬-수 정렬하기2](https://www.acmicpc.net/problem/2751) | ❌ |  |
 |7월 18일| [병합 정렬-버블소트](https://www.acmicpc.net/problem/1517) | ❌ | ✅ |
+|7월 20일| [기수 정렬-수 정렬하기3](https://www.acmicpc.net/problem/10989) | ❌ | ✅ |
