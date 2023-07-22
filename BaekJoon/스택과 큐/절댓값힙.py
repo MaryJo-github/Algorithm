@@ -21,7 +21,6 @@ for _ in range(N):
     else:
         heapq.heappush(queue, (abs(v),v))
 
-
 # import heapq
 
 # N = int(input())
