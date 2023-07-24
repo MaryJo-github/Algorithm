@@ -45,3 +45,6 @@
 |7월 16일| [병합 정렬-수 정렬하기2](https://www.acmicpc.net/problem/2751) | ❌ |  |
 |7월 18일| [병합 정렬-버블소트](https://www.acmicpc.net/problem/1517) | ❌ | ✅ |
 |7월 20일| [기수 정렬-수 정렬하기3](https://www.acmicpc.net/problem/10989) | ❌ | ✅ |
+|7월 22일| [소수구하기-거의 소수](https://www.acmicpc.net/problem/1456) | ❌ | ✅ |
+|7월 23일| [소수구하기-소수&팰린드롬](https://www.acmicpc.net/problem/1747) | ✅ |  |
+|7월 24일| [소수구하기-제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016) | ❌ |  |
