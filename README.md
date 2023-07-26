@@ -48,3 +48,4 @@
 |7월 22일| [소수구하기-거의 소수](https://www.acmicpc.net/problem/1456) | ❌ | ✅ |
 |7월 23일| [소수구하기-소수&팰린드롬](https://www.acmicpc.net/problem/1747) | ✅ |  |
 |7월 24일| [소수구하기-제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016) | ❌ |  |
+|7월 26일| [오일러 피-GCD(n,k)=1](https://www.acmicpc.net/problem/11689) |  |  |
