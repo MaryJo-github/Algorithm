@@ -52,3 +52,4 @@
 |7월 27일| [유클리드 호제법-최소공배수](https://www.acmicpc.net/problem/1934) | ✅ |  |
 |7월 31일| [유클리드 호제법-최대공약수](https://www.acmicpc.net/problem/1850) | ✅ |  |
 |8월 1일| [유클리드 호제법-칵테일 만들기](https://www.acmicpc.net/problem/1033) | ❌ |  |
+|8월 7일| [그래프의 표현-특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |  |  |
