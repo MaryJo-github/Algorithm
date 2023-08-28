@@ -57,4 +57,5 @@
 |8월 10일| [그래프의 표현-이분 그래프](https://www.acmicpc.net/problem/1707) | ✅ |  |
 |8월 13일| [그래프의 표현-물통](https://www.acmicpc.net/problem/2251) | ❌ | ✅ |
 |8월 14일| [유니온 파인드-집합의 표현](https://www.acmicpc.net/problem/1717) | ❌ | ✅ |
-|8월 18일| [유니온 파인드-여행 가자](https://www.acmicpc.net/problem/1976) |  |  |
+|8월 18일| [유니온 파인드-여행 가자](https://www.acmicpc.net/problem/1976) | ✅ |  |
+|8월 28일| [다이나믹 프로그래밍-1로 만들기](https://www.acmicpc.net/problem/1463) | ❌ | ✅ |
