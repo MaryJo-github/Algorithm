@@ -59,3 +59,4 @@
 |8월 14일| [유니온 파인드-집합의 표현](https://www.acmicpc.net/problem/1717) | ❌ | ✅ |
 |8월 18일| [유니온 파인드-여행 가자](https://www.acmicpc.net/problem/1976) | ✅ |  |
 |8월 28일| [다이나믹 프로그래밍-1로 만들기](https://www.acmicpc.net/problem/1463) | ❌ | ✅ |
+|8월 29일| [다이나믹 프로그래밍-퇴사](https://www.acmicpc.net/problem/14501) | ❌ |  |
