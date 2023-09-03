@@ -61,3 +61,4 @@
 |8월 28일| [다이나믹 프로그래밍-1로 만들기](https://www.acmicpc.net/problem/1463) | ❌ | ✅ |
 |8월 29일| [다이나믹 프로그래밍-퇴사](https://www.acmicpc.net/problem/14501) | ❌ |  |
 |8월 30일| [다이나믹 프로그래밍-이친수](https://www.acmicpc.net/problem/2193) | ✅ |  |
+|9월 3일| [다이나믹 프로그래밍-2xn타일링](https://www.acmicpc.net/problem/11726) |  |  |
