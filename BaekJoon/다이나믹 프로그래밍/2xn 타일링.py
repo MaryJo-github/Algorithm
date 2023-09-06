@@ -15,6 +15,7 @@ array[1] = 1
 for i in range(2, n+1):
     if i == 2:
         array[i] = 2
+        continue
     array[i] = 2 * array[i-1] - array[i-3]
 
 print(array[n] % 10007)
