@@ -62,4 +62,5 @@
 |8월 29일| [다이나믹 프로그래밍-퇴사](https://www.acmicpc.net/problem/14501) | ❌ |  |
 |8월 30일| [다이나믹 프로그래밍-이친수](https://www.acmicpc.net/problem/2193) | ✅ |  |
 |9월 3일| [다이나믹 프로그래밍-2xn타일링](https://www.acmicpc.net/problem/11726) | ❌ | ✅ |
-|9월 5일| [BFS_DFS-타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |  |  |
+|9월 5일| [BFS_DFS-타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | ✅ |  |
+|9월 6일| [다이나믹 프로그래밍-정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | ✅ |  |
