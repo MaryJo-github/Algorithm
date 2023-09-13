@@ -64,3 +64,6 @@
 |9월 3일| [다이나믹 프로그래밍-2xn타일링](https://www.acmicpc.net/problem/11726) | ❌ | ✅ |
 |9월 5일| [BFS_DFS-타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | ✅ |  |
 |9월 6일| [다이나믹 프로그래밍-정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | ✅ |  |
+|9월 7일| [그리디-섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | ❌ |  |
+|9월 13일| [완전탐색-카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | ✅ |  |
+|9월 14일| [이분탐색-입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | ❌ |  |
