@@ -68,3 +68,4 @@
 |9월 13일| [완전탐색-카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | ✅ |  |
 |9월 14일| [이분탐색-입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | ❌ |  |
 |9월 22일| [BFS_DFS-여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | ❌ |  |
+|10월 16일| [다이나믹 프로그래밍-등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | ✅ |  |
