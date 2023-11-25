@@ -70,3 +70,4 @@
 |9월 22일| [BFS_DFS-여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | ❌ |  |
 |10월 16일| [다이나믹 프로그래밍-등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | ✅ |  |
 |10월 27일| [완전탐색-피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | ✅ |  |
+|10월 27일| [완전탐색-게임맵최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | ✅ |  |
